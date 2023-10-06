@@ -1,0 +1,21 @@
+/* 4 - CSS external */
+body {
+    padding-bottom: 500px;
+}
+h3 {
+    color: green;
+}
+
+/* 7 - Classes */
+.paragraph {
+    background-color: #000;
+    color: aqua;
+    padding: 5px;
+}
+
+/* 8 - Id */
+#exclusive-title {
+    background-color: purple;
+    color: yellow;
+    padding: 10px;
+}
