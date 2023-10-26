@@ -1,0 +1,15 @@
+.box-model {
+    background-color: rgb(33, 58, 50);
+    color: #e93312;
+    width: 400px;
+    height: 300px;
+    border: 2px solid #e93312;
+    border-radius: 15px;
+    padding: 5px 15px;
+    outline: 2px solid #e93312;
+}
+
+.text {
+    color: #faebd7;
+    font-size: 20px;
+}
